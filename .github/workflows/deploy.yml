@@ -23,16 +23,28 @@ jobs:
 
       - name: Prepare deployment
         run: |
+          set +e
           # Create deploy directory
           mkdir -p deploy/data/channels
-
+          
           # Copy output files
-          cp -r output/* deploy/
-
+          if [ -d "output" ] && ls output/* 1>/dev/null 2>&1; then
+            cp -r output/* deploy/
+          else
+            echo "Warning: output directory empty or missing"
+          fi
+          
           # Copy data files for date picker
           if [ -d "data/channels" ]; then
-            cp data/channels/*.json deploy/data/channels/ 2>/dev/null || true
+            for f in data/channels/*.json; do
+              [ -f "$f" ] && cp "$f" deploy/data/channels/
+            done
           fi
+          
+          echo "Deploy directory contents:"
+          ls -la deploy/
+          echo "---"
+          ls deploy/data/channels/ | head -5
 
       - uses: actions/upload-pages-artifact@v3
         with:
