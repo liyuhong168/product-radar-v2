@@ -1,0 +1,317 @@
+{
+  "silicone oven mitts": {
+    "trend": 38,
+    "gap": 100,
+    "profit": 95,
+    "final": 82.8,
+    "recommendation": "STRONG_BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 9.99,
+      "in_target_range": true,
+      "max_1688_cost_cny": 19.5,
+      "max_sourcing_gbp": 2.67,
+      "target_price": 9.99
+    }
+  },
+  "digital food thermometer": {
+    "trend": 73,
+    "gap": 100,
+    "profit": 40,
+    "final": 72.2,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "garden plant labels": {
+    "trend": 65,
+    "gap": 90,
+    "profit": 40,
+    "final": 66.2,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "waterproof phone pouch": {
+    "trend": 91,
+    "gap": 100,
+    "profit": 40,
+    "final": 76.8,
+    "recommendation": "STRONG_BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "air fryer liners": {
+    "trend": 43,
+    "gap": 100,
+    "profit": 90,
+    "final": 82.2,
+    "recommendation": "STRONG_BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 6.81,
+      "in_target_range": true,
+      "max_1688_cost_cny": 9.9,
+      "max_sourcing_gbp": 1.35,
+      "target_price": 6.81
+    }
+  },
+  "silicone ice cube tray": {
+    "trend": 47,
+    "gap": 100,
+    "profit": 95,
+    "final": 85.0,
+    "recommendation": "STRONG_BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 6.99,
+      "in_target_range": true,
+      "max_1688_cost_cny": 10.4,
+      "max_sourcing_gbp": 1.43,
+      "target_price": 6.99
+    }
+  },
+  "microwave splatter cover": {
+    "trend": 32,
+    "gap": 100,
+    "profit": 40,
+    "final": 62.0,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "reusable cotton mesh bag": {
+    "trend": 23,
+    "gap": 30,
+    "profit": 95,
+    "final": 51.0,
+    "recommendation": "WATCH",
+    "gap_level": "red_ocean",
+    "profit_window": {
+      "median_competitor_price": 8.47,
+      "in_target_range": true,
+      "max_1688_cost_cny": 14.9,
+      "max_sourcing_gbp": 2.04,
+      "target_price": 8.47
+    }
+  },
+  "jute twine garden": {
+    "trend": 23,
+    "gap": 60,
+    "profit": 40,
+    "final": 43.8,
+    "recommendation": "SKIP",
+    "gap_level": "moderate",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "cable clips organizer": {
+    "trend": 32,
+    "gap": 100,
+    "profit": 40,
+    "final": 62.0,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "portable fan usb": {
+    "trend": 65,
+    "gap": 95,
+    "profit": 55,
+    "final": 73.5,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 13.32,
+      "in_target_range": false,
+      "max_1688_cost_cny": 29.5,
+      "max_sourcing_gbp": 4.04,
+      "target_price": 13.32
+    }
+  },
+  "bee watering station": {
+    "trend": 35,
+    "gap": 75,
+    "profit": 55,
+    "final": 58.0,
+    "recommendation": "WATCH",
+    "gap_level": "emerging",
+    "profit_window": {
+      "median_competitor_price": 14.9,
+      "in_target_range": false,
+      "max_1688_cost_cny": 34.3,
+      "max_sourcing_gbp": 4.69,
+      "target_price": 14.9
+    }
+  },
+  "bbq skewers stainless steel": {
+    "trend": 20,
+    "gap": 100,
+    "profit": 40,
+    "final": 59.0,
+    "recommendation": "WATCH",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "solar string lights outdoor": {
+    "trend": 50,
+    "gap": 75,
+    "profit": 55,
+    "final": 61.8,
+    "recommendation": "BUY",
+    "gap_level": "emerging",
+    "profit_window": {
+      "median_competitor_price": 14.0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 31.6,
+      "max_sourcing_gbp": 4.32,
+      "target_price": 14.0
+    }
+  },
+  "magnetic fly screen door": {
+    "trend": 35,
+    "gap": 95,
+    "profit": 55,
+    "final": 66.0,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 14.01,
+      "in_target_range": false,
+      "max_1688_cost_cny": 31.6,
+      "max_sourcing_gbp": 4.33,
+      "target_price": 14.01
+    }
+  },
+  "silicone stretch lids": {
+    "trend": 53,
+    "gap": 100,
+    "profit": 90,
+    "final": 84.8,
+    "recommendation": "STRONG_BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 6.24,
+      "in_target_range": true,
+      "max_1688_cost_cny": 8.2,
+      "max_sourcing_gbp": 1.12,
+      "target_price": 6.24
+    }
+  },
+  "mouth tape for sleeping": {
+    "trend": 47,
+    "gap": 70,
+    "profit": 95,
+    "final": 73.0,
+    "recommendation": "BUY",
+    "gap_level": "moderate",
+    "profit_window": {
+      "median_competitor_price": 9.99,
+      "in_target_range": true,
+      "max_1688_cost_cny": 19.5,
+      "max_sourcing_gbp": 2.67,
+      "target_price": 9.99
+    }
+  },
+  "dog cooling bandana": {
+    "trend": 29,
+    "gap": 30,
+    "profit": 95,
+    "final": 52.5,
+    "recommendation": "WATCH",
+    "gap_level": "red_ocean",
+    "profit_window": {
+      "median_competitor_price": 9.99,
+      "in_target_range": true,
+      "max_1688_cost_cny": 19.5,
+      "max_sourcing_gbp": 2.67,
+      "target_price": 9.99
+    }
+  },
+  "beeswax food wraps": {
+    "trend": 32,
+    "gap": 20,
+    "profit": 40,
+    "final": 30.0,
+    "recommendation": "SKIP",
+    "gap_level": "red_ocean",
+    "profit_window": {
+      "median_competitor_price": 0,
+      "in_target_range": false,
+      "max_1688_cost_cny": 0,
+      "max_sourcing_gbp": 0,
+      "target_price": 0
+    }
+  },
+  "reusable ice cubes": {
+    "trend": 53,
+    "gap": 20,
+    "profit": 95,
+    "final": 54.5,
+    "recommendation": "WATCH",
+    "gap_level": "red_ocean",
+    "profit_window": {
+      "median_competitor_price": 9.85,
+      "in_target_range": true,
+      "max_1688_cost_cny": 19.0,
+      "max_sourcing_gbp": 2.61,
+      "target_price": 9.85
+    }
+  },
+  "portable cutlery set": {
+    "trend": 65,
+    "gap": 95,
+    "profit": 55,
+    "final": 73.5,
+    "recommendation": "BUY",
+    "gap_level": "blue_ocean",
+    "profit_window": {
+      "median_competitor_price": 14.95,
+      "in_target_range": false,
+      "max_1688_cost_cny": 34.4,
+      "max_sourcing_gbp": 4.71,
+      "target_price": 14.95
+    }
+  }
+}
