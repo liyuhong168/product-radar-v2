@@ -28,11 +28,13 @@ jobs:
           mkdir -p deploy/data/channels
           
           # Copy output files
-          if [ -d "output" ] && ls output/* 1>/dev/null 2>&1; then
-            cp -r output/* deploy/
-          else
-            echo "Warning: output directory empty or missing"
-          fi
+          echo "Listing output directory:"
+          ls -la output/ || echo "output dir missing"
+          cp output/*.html output/*.js deploy/ 2>/dev/null || echo "No HTML/JS files in output"
+          cp output/*.css deploy/ 2>/dev/null || true
+          cp output/*.json deploy/ 2>/dev/null || true
+          cp output/*.csv deploy/ 2>/dev/null || true
+          cp output/*.md deploy/ 2>/dev/null || true
           
           # Copy data files for date picker
           if [ -d "data/channels" ]; then
@@ -44,7 +46,8 @@ jobs:
           echo "Deploy directory contents:"
           ls -la deploy/
           echo "---"
-          ls deploy/data/channels/ | head -5
+          echo "HTML files:"
+          ls deploy/*.html 2>/dev/null || echo "No HTML files!"
 
       - uses: actions/upload-pages-artifact@v3
         with:
